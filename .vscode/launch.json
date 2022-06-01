@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open 1-поиск_по_id.html",
+            "file": "/Users/ivanbolsakov/Desktop/для студентов урок 5 курс javascript1/домашняя работа урок 5 js1/2 выполните практические задания/задания 1 уровня (это обязательные задания)/1 поиск элементов на странице/1-поиск_по_id.html"
+        }
+    ]
+}
